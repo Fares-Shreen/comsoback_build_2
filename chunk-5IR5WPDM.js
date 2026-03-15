@@ -1,0 +1,1 @@
+import{Gb as l,Qa as t,mb as e,nb as p}from"./chunk-ZMZJREDD.js";import"./chunk-C6Q5SG76.js";var c=class n{static \u0275fac=function(o){return new(o||n)};static \u0275cmp=t({type:n,selectors:[["app-production-hall-component"]],decls:2,vars:0,template:function(o,i){o&1&&(e(0,"p"),l(1,"production-hall-component works!"),p())},encapsulation:2})};export{c as ProductionHallComponent};
